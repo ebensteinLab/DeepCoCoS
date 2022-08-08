@@ -1,0 +1,4 @@
+Open_data.py - Read tiff file and generate the dataset
+Main.py - Run network for training after you have created the data
+prediction_script.py - Prediction on test set
+Models.py - all the models are there
