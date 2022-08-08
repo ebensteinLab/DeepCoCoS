@@ -1,1 +1,4 @@
-
+Here you could find all the files used for post-processing in Matlab.
+The main folder contains the .m files, while the subfolders contain the needed files to run the various functions.
+The raw images of the barcodes could be downloaded from the supporting info of the manuscript online, and added to the Data/RawImages/L1-L4 paths
+to be recognized by "GTpred_barcode_extraction_comparison.m" script.
